@@ -1,4 +1,3 @@
-import { ConnectButton } from '@rainbow-me/rainbowkit';
 import { Leaf } from 'lucide-react';
 
 const Navbar = () => {
@@ -10,7 +9,7 @@ const Navbar = () => {
             <Leaf className="w-8 h-8 text-primary" />
             <span className="text-2xl font-bold text-foreground">OnchainFarm</span>
           </div>
-          
+
           <div className="flex items-center gap-6">
             <a href="/" className="text-foreground hover:text-primary transition-colors">
               Home
@@ -21,10 +20,7 @@ const Navbar = () => {
             <a href="/dashboard" className="text-foreground hover:text-primary transition-colors">
               Dashboard
             </a>
-            <ConnectButton 
-              chainStatus="icon"
-              showBalance={false}
-            />
+            <appkit-button />
           </div>
         </div>
       </div>
