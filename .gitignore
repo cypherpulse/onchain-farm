@@ -107,3 +107,4 @@ Thumbs.db
 # Commit script and messages
 commit_messages.txt
 commit_script.ps1
+commit_latest_changes.ps1
