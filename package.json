@@ -40,6 +40,8 @@
     "@radix-ui/react-toggle-group": "^1.1.10",
     "@radix-ui/react-tooltip": "^1.2.7",
     "@rainbow-me/rainbowkit": "^2.2.9",
+    "@reown/appkit": "^1.7.19",
+    "@reown/appkit-adapter-wagmi": "^1.7.19",
     "@tanstack/react-query": "^5.90.11",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
