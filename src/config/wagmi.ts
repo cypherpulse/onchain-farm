@@ -5,7 +5,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 
 // NFT Certificate Contract
 export const nftContract = {
-  address: '0xYourNFTContractAddressHere', // Replace with actual NFT contract address
+  address: '0xYourNFTContractAddressHere', // Replace with actual NFT contract Address 
   abi: [
     {
       inputs: [
