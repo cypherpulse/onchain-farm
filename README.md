@@ -15,6 +15,7 @@ This project stands out as a premier example of Reown AppKit integration on the 
 
 - [OnchainFarm](#onchainfarm)
   - [Table of Contents](#table-of-contents)
+  - [Documentation](#documentation)
   - [Key Highlights](#key-highlights)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -40,6 +41,15 @@ This project stands out as a premier example of Reown AppKit integration on the 
   - [FAQ](#faq)
   - [Support](#support)
   - [Acknowledgments](#acknowledgments)
+
+## Documentation
+
+Comprehensive documentation for the OnchainFarm project is available in the [`doc/`](./doc/) directory:
+
+- **[CONTRACT_SPECIFICATIONS.md](./doc/CONTRACT_SPECIFICATIONS.md)** - Complete technical specifications for smart contracts and backend integration
+- **[SMART_CONTRACT_DOCUMENTATION.md](./doc/SMART_CONTRACT_DOCUMENTATION.md)** - Detailed smart contract reference and implementation guide
+- **[BACKEND_DOCUMENTATION.md](./doc/BACKEND_DOCUMENTATION.md)** - Backend architecture and API documentation
+- **[CONTRACT_DOCUMENTATION.md](./doc/CONTRACT_DOCUMENTATION.md)** - Quick contract reference guide
 
 ## Key Highlights
 
